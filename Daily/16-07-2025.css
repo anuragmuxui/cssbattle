@@ -1,0 +1,14 @@
+<style>
+* {
+  background: #32295a;
+  margin: 110 175 140;
+  border-radius: 50%;
+  box-shadow: 0 0.94em 0 25px #48bf7d;
+}
+* * {
+  background: 0;
+  margin: -50 -150% -25;
+  font: 133% x;
+  zoom: 2;
+}
+</style>
